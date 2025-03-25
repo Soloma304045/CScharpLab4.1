@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\WPF\\WPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\WPF\\WPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\WPF\\WPF.csproj",
+        "projectName": "WPF",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\WPF\\WPF.csproj",
+        "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {
+              "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\4 Семестр\\Lab-1\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

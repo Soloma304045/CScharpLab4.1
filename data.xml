@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="data.xsd">
+  <transistor id="001">
+    <name>TRX-101</name>
+    <types>
+      <type>BJT</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.2</amperage>
+    <price currency="USD">0.15</price>
+    <country>USA</country>
+  </transistor>
+  <transistor id="002">
+    <name>TRX-102</name>
+    <types>
+      <type>MOSFET</type>
+      <type>IGBT</type>
+    </types>
+    <voltage currency="V">12</voltage>
+    <amperage currency="A">1.0</amperage>
+    <price currency="USD">0.45</price>
+    <country>Japan</country>
+  </transistor>
+  <transistor id="003">
+    <name>TRX-103</name>
+    <types>
+      <type>IGBT</type>
+      <type>JFET</type>
+    </types>
+    <voltage currency="V">24</voltage>
+    <amperage currency="A">2.0</amperage>
+    <price currency="USD">1.20</price>
+    <country>Germany</country>
+  </transistor>
+  <transistor id="004">
+    <name>TRX-104</name>
+    <types>
+      <type>JFET</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">9</voltage>
+    <amperage currency="A">0.5</amperage>
+    <price currency="USD">0.35</price>
+    <country>South Korea</country>
+  </transistor>
+  <transistor id="005">
+    <name>TRX-105</name>
+    <types>
+      <type>Darlington</type>
+      <type>BJT</type>
+    </types>
+    <voltage currency="V">15</voltage>
+    <amperage currency="A">1.5</amperage>
+    <price currency="USD">0.75</price>
+    <country>China</country>
+  </transistor>
+  <transistor id="006">
+    <name>TRX-106</name>
+    <types>
+      <type>BJT</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.1</amperage>
+    <price currency="USD">0.10</price>
+    <country>Russia</country>
+  </transistor>
+  <transistor id="007">
+    <name>TRX-107</name>
+    <types>
+      <type>MOSFET</type>
+      <type>JFET</type>
+    </types>
+    <voltage currency="V">18</voltage>
+    <amperage currency="A">0.8</amperage>
+    <price currency="USD">0.60</price>
+    <country>Taiwan</country>
+  </transistor>
+  <transistor id="008">
+    <name>TRX-108</name>
+    <types>
+      <type>IGBT</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">30</voltage>
+    <amperage currency="A">2.5</amperage>
+    <price currency="USD">1.50</price>
+    <country>France</country>
+  </transistor>
+  <transistor id="009">
+    <name>TRX-109</name>
+    <types>
+      <type>JFET</type>
+      <type>BJT</type>
+    </types>
+    <voltage currency="V">12</voltage>
+    <amperage currency="A">0.3</amperage>
+    <price currency="USD">0.20</price>
+    <country>Great Britain</country>
+  </transistor>
+  <transistor id="010">
+    <name>TRX-110</name>
+    <types>
+      <type>Darlington</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">20</voltage>
+    <amperage currency="A">1.0</amperage>
+    <price currency="USD">0.8</price>
+    <country>USA</country>
+  </transistor>
+  <transistor id="011">
+    <name>TRX-111</name>
+    <types>
+      <type>BJT</type>
+      <type>IGBT</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.25</amperage>
+    <price currency="USD">0.18</price>
+    <country>Japan</country>
+  </transistor>
+  <transistor id="012">
+    <name>TRX-112</name>
+    <types>
+      <type>MOSFET</type>
+      <type>JFET</type>
+    </types>
+    <voltage currency="V">15</voltage>
+    <amperage currency="A">1.2</amperage>
+    <price currency="USD">0.55</price>
+    <country>Germany</country>
+  </transistor>
+  <transistor id="013">
+    <name>TRX-113</name>
+    <types>
+      <type>IGBT</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">28</voltage>
+    <amperage currency="A">2.2</amperage>
+    <price currency="USD">1.4</price>
+    <country>South Korea</country>
+  </transistor>
+  <transistor id="014">
+    <name>TRX-114</name>
+    <types>
+      <type>JFET</type>
+      <type>BJT</type>
+    </types>
+    <voltage currency="V">6</voltage>
+    <amperage currency="A">0.4</amperage>
+    <price currency="USD">0.22</price>
+    <country>China</country>
+  </transistor>
+  <transistor id="015">
+    <name>TRX-115</name>
+    <types>
+      <type>Darlington</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">16</voltage>
+    <amperage currency="A">1.8</amperage>
+    <price currency="USD">0.90</price>
+    <country>Russia</country>
+  </transistor>
+  <transistor id="016">
+    <name>TRX-116</name>
+    <types>
+      <type>BJT</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.15</amperage>
+    <price currency="USD">0.12</price>
+    <country>Taiwan</country>
+  </transistor>
+  <transistor id="017">
+    <name>TRX-117</name>
+    <types>
+      <type>MOSFET</type>
+      <type>IGBT</type>
+    </types>
+    <voltage currency="V">10</voltage>
+    <amperage currency="A">0.9</amperage>
+    <price currency="USD">0.50</price>
+    <country>France</country>
+  </transistor>
+  <transistor id="018">
+    <name>TRX-118</name>
+    <types>
+      <type>IGBT</type>
+      <type>JFET</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">35</voltage>
+    <amperage currency="A">3.0</amperage>
+    <price currency="USD">1.70</price>
+    <country>Great Britain</country>
+  </transistor>
+  <transistor id="019">
+    <name>TRX-119</name>
+    <types>
+      <type>JFET</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">8</voltage>
+    <amperage currency="A">0.35</amperage>
+    <price currency="USD">0.25</price>
+    <country>USA</country>
+  </transistor>
+  <transistor id="020">
+    <name>TRX-120</name>
+    <types>
+      <type>Darlington</type>
+      <type>BJT</type>
+    </types>
+    <voltage currency="V">22</voltage>
+    <amperage currency="A">1.3</amperage>
+    <price currency="USD">0.85</price>
+    <country>Japan</country>
+  </transistor>
+  <transistor id="021">
+    <name>TRX-121</name>
+    <types>
+      <type>BJT</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.3</amperage>
+    <price currency="USD">0.20</price>
+    <country>Germany</country>
+  </transistor>
+  <transistor id="022">
+    <name>TRX-122</name>
+    <types>
+      <type>MOSFET</type>
+      <type>IGBT</type>
+    </types>
+    <voltage currency="V">11</voltage>
+    <amperage currency="A">1.1</amperage>
+    <price currency="USD">0.58</price>
+    <country>South Korea</country>
+  </transistor>
+  <transistor id="023">
+    <name>TRX-123</name>
+    <types>
+      <type>IGBT</type>
+      <type>JFET</type>
+    </types>
+    <voltage currency="V">26</voltage>
+    <amperage currency="A">2.0</amperage>
+    <price currency="USD">1.30</price>
+    <country>China</country>
+  </transistor>
+  <transistor id="024">
+    <name>TRX-124</name>
+    <types>
+      <type>JFET</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">7</voltage>
+    <amperage currency="A">0.45</amperage>
+    <price currency="USD">0.28</price>
+    <country>Russia</country>
+  </transistor>
+  <transistor id="025">
+    <name>TRX-125</name>
+    <types>
+      <type>Darlington</type>
+      <type>MOSFET</type>
+    </types>
+    <voltage currency="V">19</voltage>
+    <amperage currency="A">1.4</amperage>
+    <price currency="USD">0.82</price>
+    <country>Taiwan</country>
+  </transistor>
+  <transistor id="026">
+    <name>TRX-126</name>
+    <types>
+      <type>BJT</type>
+      <type>IGBT</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.22</amperage>
+    <price currency="USD">0.16</price>
+    <country>France</country>
+  </transistor>
+  <transistor id="027">
+    <name>TRX-127</name>
+    <types>
+      <type>MOSFET</type>
+      <type>JFET</type>
+    </types>
+    <voltage currency="V">13</voltage>
+    <amperage currency="A">1.3</amperage>
+    <price currency="USD">0.65</price>
+    <country>Great Britain</country>
+  </transistor>
+  <transistor id="028">
+    <name>TRX-128</name>
+    <types>
+      <type>IGBT</type>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">32</voltage>
+    <amperage currency="A">2.8</amperage>
+    <price currency="USD">1.60</price>
+    <country>USA</country>
+  </transistor>
+  <transistor id="029">
+    <name>TRX-129</name>
+    <types>
+      <type>JFET</type>
+      <type>BJT</type>
+    </types>
+    <voltage currency="V">9</voltage>
+    <amperage currency="A">0.5</amperage>
+    <price currency="USD">0.30</price>
+    <country>Japan</country>
+  </transistor>
+  <transistor id="030">
+    <name>TRX-130</name>
+    <types>
+      <type>Darlington</type>
+    </types>
+    <voltage currency="V">21</voltage>
+    <amperage currency="A">0</amperage>
+    <price currency="USD">0</price>
+    <country>Germany</country>
+  </transistor>
+</root>

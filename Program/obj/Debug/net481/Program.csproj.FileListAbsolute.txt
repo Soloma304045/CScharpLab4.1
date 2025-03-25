@@ -1,0 +1,13 @@
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\bin\Debug\net481\Program.exe.config
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\bin\Debug\net481\Program.exe
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\bin\Debug\net481\Program.pdb
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\bin\Debug\net481\Library.dll
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\bin\Debug\net481\Library.pdb
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.AssemblyInfo.cs
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.csproj.Up2Date
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.exe
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.pdb
