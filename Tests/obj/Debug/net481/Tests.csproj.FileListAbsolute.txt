@@ -51,3 +51,4 @@ C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Tests\obj\Debug\net481\Test
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Tests\obj\Debug\net481\Tests.csproj.Up2Date
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Tests\obj\Debug\net481\Tests.dll
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Tests\obj\Debug\net481\Tests.pdb
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Tests\obj\Debug\net481\Tests.sourcelink.json

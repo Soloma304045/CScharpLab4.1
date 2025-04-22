@@ -18,3 +18,4 @@ C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\WPF\obj\Debug\net481\WPF.cs
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\WPF\obj\Debug\net481\WPF.csproj.Up2Date
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\WPF\obj\Debug\net481\WPF.exe
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\WPF\obj\Debug\net481\WPF.pdb
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\WPF\obj\Debug\net481\WPF.sourcelink.json

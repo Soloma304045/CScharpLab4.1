@@ -11,3 +11,4 @@ C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Pr
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.csproj.Up2Date
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.exe
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.pdb
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Program\obj\Debug\net481\Program.sourcelink.json

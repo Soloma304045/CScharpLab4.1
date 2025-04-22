@@ -7,3 +7,4 @@ C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Library\bin\Debug\net481\Li
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Library\bin\Debug\net481\Library.pdb
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Library\obj\Debug\net481\Library.dll
 C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Library\obj\Debug\net481\Library.pdb
+C:\Users\Иван\Desktop\OOP\4 Семестр\Lab-1\Library\obj\Debug\net481\Library.sourcelink.json

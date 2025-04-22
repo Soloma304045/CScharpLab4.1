@@ -8,11 +8,21 @@
           <xs:complexType>
             <xs:sequence>
               <xs:element name="name" type="xs:string"/>
+
+              <xs:simpleType name="TransistorType">
+                <xs:restriction base="xs:string">
+                  <xs:enumeration value="BJT"/>
+                  <xs:enumeration value="MOSFET"/>
+                  <xs:enumeration value="IGBT"/>
+                  <xs:enumeration value="JFET"/>
+                  <xs:enumeration value="Darlington"/>
+                </xs:restriction>
+              </xs:simpleType>
               
               <xs:element name="types">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="type" type="xs:string" maxOccurs="unbounded"/>
+                    <xs:element name="type" type="TransistorType" maxOccurs="unbounded"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>

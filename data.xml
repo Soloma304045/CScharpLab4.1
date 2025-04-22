@@ -11,6 +11,17 @@
     <price currency="USD">0.15</price>
     <country>USA</country>
   </transistor>
+  <transistor id="031">
+    <name>TRX-131</name>
+    <types>
+      <type>BJT</type>
+      <type>AAAAAAAAAAA</type>
+    </types>
+    <voltage currency="V">5</voltage>
+    <amperage currency="A">0.2</amperage>
+    <price currency="USD">0.15</price>
+    <country>USA</country>
+  </transistor>
   <transistor id="002">
     <name>TRX-102</name>
     <types>
